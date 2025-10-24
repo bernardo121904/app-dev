@@ -1,3 +1,4 @@
 # app-dev
 My first repository
-![Alt text]([https://example.com/path/to/image.png](https://i.kym-cdn.com/photos/images/original/003/153/382/8a4.gif))
+
+![OIP](https://github.com/user-attachments/assets/29c2a8ed-145c-4be7-84df-0fe140114174)
