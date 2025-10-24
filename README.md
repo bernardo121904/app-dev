@@ -1,4 +1,4 @@
 # app-dev
 My first repository
 
-![OIP](https://github.com/user-attachments/assets/29c2a8ed-145c-4be7-84df-0fe140114174)
+<img width="201" height="180" alt="OIP" src="https://github.com/user-attachments/assets/bb563311-cdd7-476d-8be6-adb7784a827f" />
