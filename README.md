@@ -1,6 +1,6 @@
 # The Matrix
-My first repository :kissing_closed_eyes: :grin: 
-                                    :point_right: :point_left:
+My first repository :kissing_closed_eyes: :grin: :point_right: :point_left:
+                                    
 
 - Keanu Reeves is the GOAT
 - 10/10. Generational movie.  Written and directed by the Wachowskis. Highly recommended.
